@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="RoundConter" parent="Theme.AppCompat.Light">
+        <item name="shapeAppearanceOverlay">@style/RoundedCornersOverlay</item>
+    </style>
+
+    <style name="RoundedCornersOverlay">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="RoundShapeAppearance">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+
+</resources>
+
+
